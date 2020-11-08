@@ -4,7 +4,6 @@
 	<title>TITLE</title>
 </head>
 <body>
-<h3>这是一个jsp页面</h3>
-<a href="hello">入门程序</a>
+这是一个成功入门例子
 </body>
 </html>
